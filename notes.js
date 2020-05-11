@@ -72,6 +72,7 @@ const remove_note=function(notes_arr,title){
    if(data.title===title){
     a=true;
    }
+  
   });
 
   if(arr.length!==0 && a)
