@@ -1,0 +1,2 @@
+# NOTEAPP
+Using synchronous way
